@@ -13,4 +13,4 @@
 
 [Вот тут можно посмотреть пример пользования бота](https://www.youtube.com/watch?v=3I-OW4_vd54)
 
-[А вот тут призентацию](https://docs.google.com/presentation/d/1Vw3ZJ-aIxRZ_E6PhKQ_jz6PluT0ag005ukYr-wll-UY/edit#slide=id.g16154c8be50_1_12)
+[А вот тут призентацию]
